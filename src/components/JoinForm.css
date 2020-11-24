@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Brandon Grotesque Black';
+    src: url(font/BrandonGrotesque-Black.ttf);
+    font-style: normal;
+}
+
+
+.FormStyle {
+    width: 50%;
+    text-transform: uppercase;
+    font-family:'Brandon Grotesque Black';
+        font-weight: 100;
+        font-size:1pc;
+        text-decoration: none;
+        color:#212529;
+    margin:auto;
+}
+
+.Form {
+    text-transform: uppercase;
+    font-family:'Brandon Grotesque Black';
+        font-weight: 100;
+        font-size:1pc;
+        text-decoration: none;
+        color:#212529;
+    margin:auto;
+
+}

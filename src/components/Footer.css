@@ -1,0 +1,79 @@
+body {
+    margin: 0px;
+    padding: 0px;
+ }
+
+@font-face {
+    font-family: 'Brandon Grotesque Light';
+    src: url(font/Brandon_light.otf);
+    font-style: normal;
+}
+
+.big {
+    padding: 20px;
+    font-size: 30px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+    margin: 0px 3px;
+    border-radius: 50%;
+    background: #212529;
+    color:#dee2e6;
+
+    }
+
+    .fab:hover {
+        background: #dee2e6;
+        color:#212529;
+    }
+
+    .socialLinks {
+        background-color: #212529;
+        width: 480px;
+        height: 70px;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);    
+    }
+
+    .wrapper {
+        background-color: #212529;
+        width: 100%;
+        height: 110px;
+        position: absolute;
+        left: 50%;
+        top: 30%;
+        transform: translate(-50%, -50%);    
+        text-align: center;
+
+    }
+
+    .wrapper2 {
+        position: relative;
+        margin:0px;
+
+    }
+
+
+    .copyRights {
+        background-color: #212529;
+        width: 100%;
+        height: 60px;
+        padding:0px;
+        position: absolute;
+        left: 50%;
+        bottom: -80%;
+        transform: translate(-50%, -50%);    
+        text-align: center;
+
+    }
+
+    .wildText {
+        font-family:'Brandon Grotesque Light';
+            font-size:1.4pc;
+            text-decoration: none;
+            color:#dee2e6;
+            
+      
+    }

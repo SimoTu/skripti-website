@@ -1,0 +1,104 @@
+@font-face {
+    font-family: 'Brandon Grotesque Black';
+    src: url(font/BrandonGrotesque-Black.ttf);
+    font-style: normal;
+}
+
+.font{
+    text-transform: uppercase;
+  font-family:'Brandon Grotesque Black';
+      font-weight: 100;
+      font-size:1pc;
+      text-decoration: none;
+      color:#dee2e6;
+}
+
+.font:hover {
+    color: #dee2e6;
+    text-decoration: none;
+}
+
+.nav{
+    padding:30px;
+    border-bottom: 4px solid #dee2e6;
+    margin-top:0px;
+}
+
+.Navbar.bg {
+    background-color: black;
+
+}
+
+.dropFont {
+    color:#495057;
+
+}
+
+.dropFont:hover {
+    color:#000;
+
+}
+
+.logo{
+    text-transform: uppercase;
+  font-family:'Brandon Grotesque Black';
+      font-weight: 100;
+      font-size:2pc;
+      text-decoration: none;
+      color:#dee2e6;
+      margin-right: 70px;
+
+}
+
+.space{
+      padding-right: 3pc;
+}
+
+
+
+
+.navbar-collapse {
+    background-color: #212529 !important;
+}
+
+.responsive-navbar-nav {
+    background-color: #212529!important;
+}
+
+.navbar {
+    background-color: #212529!important;
+}
+
+.bg-dar {
+    background-color: #212529!important;
+}
+
+.navbar-dark {
+    background-color: #212529  !important;
+}
+
+
+.navbar-expand-lg {
+    background-color: #212529!important;
+}
+
+.nav {
+        background-color: #212529!important;
+}
+
+.dropdown-toggle.nav-link::after {
+    color:#dee2e6;
+}
+
+.navicon {
+    font-size:100pc;
+}
+
+.faaa {
+    font-size: 20px;
+    }
+
+
+.wrapwrap {
+    text-align: center;
+}

@@ -1,0 +1,17 @@
+.hallitusWrap {
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+        grid-template-rows: auto;
+          justify-items: center;
+  padding: 0px;
+}
+  .grid-item {
+    padding: 30px;
+    text-align: center;
+    justify-items: center;
+
+  }
+  

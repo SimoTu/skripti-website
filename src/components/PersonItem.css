@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'Brandon Grotesque Black';
+    src: url(font/BrandonGrotesque-Black.ttf);
+    font-style: normal;
+}
+
+.team-member-2{
+    margin-top: 25px;
+    margin-bottom:50px;
+    color:#212529;
+    font-family: "Brandon Grotesque Black";
+    text-transform: uppercase;
+    border: 2px solid #212529;
+    border-radius: 20px;
+    -webkit-box-shadow: 0 7px 4px #777;
+	-moz-box-shadow: 0 7px 4px #777;
+    box-shadow: 0 7px 4px #777;
+    background-color: aliceblue;
+    text-align: left !important;
+
+
+}
+.team-member img{
+    width:175px;
+    height:175px;
+    border:5px solid #dee2e6;
+}
+.team-member h4{
+    margin-top:25px;
+    margin-bottom:0;
+    color:#212529;
+
+}
+
+.team-member p{
+    margin-top:3px;
+    margin-bottom:12px;
+    color:#212529;
+
+
+}
+
+.social-buttons {
+    margin-top:10px;
+}
+
+.linkMail:hover{
+    margin-top:0;
+    color: #212529;
+    text-decoration: none;
+    margin-bottom:10px;
+}
+
+.team-member a{
+    margin-bottom:10px;
+    color: #212529;
+
+}
+
+.personlink {
+    margin-top:10px;
+    padding: 10px;
+    font-size: 20px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    margin: 7px 3px;
+    border-radius: 50%;
+    background: #dee2e6;
+    color:#212529;
+}
+
+.personlink:hover {
+    background: #212529;
+    color:#dee2e6;
+}

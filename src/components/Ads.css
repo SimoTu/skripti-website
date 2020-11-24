@@ -1,0 +1,27 @@
+
+.sponsors{
+    padding:0px;
+    text-align:center;
+    align-content: center;
+    margin-bottom:70px;
+    margin-top: 30px;
+}
+.img-fluid {
+    padding: 20px;
+    width: 250px;
+}
+@media (max-width:8px){
+    .img-fluid {
+        max-width: 5%;
+    }
+}
+
+.fontAds {
+    text-transform: uppercase;
+    font-family:'Brandon Grotesque Black';
+        font-weight: 100;
+        font-size:1.5pc;
+        text-decoration: none;
+    color:#212529;
+    margin-bottom:0pc;
+}
